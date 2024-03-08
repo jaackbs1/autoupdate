@@ -1,0 +1,7 @@
+d3d9.dll 5a48d5b4782e9a28e4d112cec98fb8d1cb13c1ca
+Datatable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
+Effect\item\rift_exit_mag.spt 9812fe3197840d790760a4c47d59a16927371884
+Effect\ReadMe.txt ddda47dbdd95298a58bf5d0a15e936f25fa912de
+Lang\words-en.htm 84a04a66c0b3eb629d76cbc35a4b447cf1518c94
+rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
+sciter.dll 1b14d89377a56a8ed83f16a234fb3a61ac853758
