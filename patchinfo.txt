@@ -1,4 +1,4 @@
-d3d9.dll 4dd03e238b297e7f10236ec53326660f97b223b7
+d3d9.dll 022656e79e8f2f3c4ee869cca9d0e1fcff4d069a
 DataTable\Character.edf 8bf2715ab7a47a440411bf2f6b6adcc4c710992f
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf 63987e8d6ed490c5eab105564b91e917e61bd529
