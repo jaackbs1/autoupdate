@@ -32,3 +32,4 @@ LICENSE b314c7ebb7d599944981908b7f3ed33a30e78f3a
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 1b14d89377a56a8ed83f16a234fb3a61ac853758
 sirin-launcher.dll 1dd34dd1d25aa2422284fedf57b3a9c9c662a54c
+teste de arquivo.txt da39a3ee5e6b4b0d3255bfef95601890afd80709
