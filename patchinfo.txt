@@ -3,7 +3,7 @@ DataTable\Character.edf 811379d10b1d8a3d552f49bbe69b39a69a2061d4
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf 17b1f7538ab1694e9603fba38c9828ebbbc8a531
 DataTable\en-ph\NDEventShip.edf f7d92ff07a65b2f98f6fd8be912c3919858d5f9e
-DataTable\en-ph\NDItem.edf c647c624d467c433755040cdee28e6f617a4bdbc
+DataTable\en-ph\NDItem.edf f04e86864e8116a06c64d78ad59b556e97edad6a
 DataTable\en-ph\NDItemCash.edf a633a3c135e7276262f94ea2a0a5578c80e329ba
 DataTable\en-ph\NDLanguage.edf f68938a866f0fe1f57de12c4c1ecd967e1973055
 DataTable\en-ph\NDMap.edf 83b6bd85e3f814041d7f582b8d06dcbf61c93323
