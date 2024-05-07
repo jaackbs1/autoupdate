@@ -36,3 +36,4 @@ Map\neutralC\NeutralC.ebp 615544169e16c95929af97080513640f4696d4e7
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 1b14d89377a56a8ed83f16a234fb3a61ac853758
 sirin-launcher.dll 1dd34dd1d25aa2422284fedf57b3a9c9c662a54c
+SpriteImage\common\item.spr b9d55c1eee3d3b8c22dafb3823777aff4153a5dd
