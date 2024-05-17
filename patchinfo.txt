@@ -70,4 +70,4 @@ DataTable\Store.edf 111e779a075ad6d5096482e9a42107ced573374e
 Effect\item\rift_exit_mag.spt 9812fe3197840d790760a4c47d59a16927371884
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 63b9ddb91649336acd1cc3c9eb1355d2dc5f7a12
-sirin-launcher.dll 1dd34dd1d25aa2422284fedf57b3a9c9c662a54c
+sirin-launcher.dll a0e732fb0e89133876ebbb6132e8d1a722de64d3
