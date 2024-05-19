@@ -1,6 +1,6 @@
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
 Adv.dll b26a6c6ab3c37d5c7f0ef167923b8e08b4d4ec7b
-d3d9.dll 5ac7ccfce1d33f68eeb9514aebdfa2a5d632c261
+d3d9.dll 2569348b2b8ca7724f6fc7f5cbe909224875c66f
 d3dx9.dll be03e47159fb87dfb855e8768ad9617dc6085850
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf 905b25c648c2b4bbd40d4497556dba858a056ea5
@@ -48,7 +48,7 @@ DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
-DataTable\en-ph\UITranslation.htm 4fbcfc56cc3f1a941c7fadbae008e8bbab9d1715
+DataTable\en-ph\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 8f86aef0673469187c79866f953d9565856b14fa
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
